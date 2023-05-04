@@ -20,6 +20,6 @@ Hugging Face is a company that develops tools and resources for natural language
 
 * **Website:** https://huggingface.co/learn
 * **Courses:**
-    * NLP Course: https://huggingface.co/learn/nlp-course/chapter1/1
-    * Deep RL Course: https://huggingface.co/learn/deep-rl-course/unit0/introduction
+    - [ ] NLP Course: https://huggingface.co/learn/nlp-course/chapter1/1
+    - [ ] Deep RL Course: https://huggingface.co/learn/deep-rl-course/unit0/introduction
 
